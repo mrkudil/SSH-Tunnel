@@ -1,5 +1,5 @@
 {
-  "server": "ayinhara.herokuapp.com",
+  "server": "onplus.herokuapp.com",
   "local_address": "0.0.0.0",
   "scheme": "ws",
   "local_port": 1080,
