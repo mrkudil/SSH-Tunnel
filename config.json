@@ -1,6 +1,6 @@
 {
-  "server": "ayinhara.herokuapp.com",
-  "local_address": "0.0.0.0",
+  "server": "shadowsocks-pax8.onrender.com",
+  "local_address": "127.0.0.1",
   "scheme": "ws",
   "local_port": 443,
   "remote_port": 80,
@@ -8,5 +8,6 @@
   "timeout": 600,
   "method": "aes-256-cfb"
 }
+
 
 
