@@ -4,7 +4,8 @@
   "scheme": "ws",
   "local_port": 1080,
   "remote_port": 80,
-  "password": "onplus",
+  "password": "Alders#1",
   "timeout": 600,
   "method": "aes-256-cfb"
 }
+
