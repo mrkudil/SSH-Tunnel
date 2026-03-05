@@ -2,12 +2,13 @@
   "server": "shadowsocks-pax8.onrender.com",
   "local_address": "127.0.0.1",
   "scheme": "ws",
-  "local_port": 443,
+  "local_port": 1337,
   "remote_port": 80,
   "password": "Alders#1",
   "timeout": 600,
   "method": "aes-256-cfb"
 }
+
 
 
 
