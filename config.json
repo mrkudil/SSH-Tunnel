@@ -1,5 +1,5 @@
 {
-  "server": "shadowsocks-pax8.onrender.com",
+  "server": "shadowsocks-huta.onrender.com",
   "local_address": "127.0.0.1",
   "scheme": "ws",
   "local_port": 1337,
@@ -8,6 +8,7 @@
   "timeout": 600,
   "method": "aes-256-cfb"
 }
+
 
 
 
